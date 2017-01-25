@@ -1,5 +1,6 @@
 # swRtcherIoo
 > Arduino codes for the IR controlled extension box
+
 Just another weekend project I worked on because I was too lazy to get up in the middle of the night to turn some appliance on/off.
 
 ## Release History
@@ -9,9 +10,9 @@ Just another weekend project I worked on because I was too lazy to get up in the
   * Completed
 * 12/2014
   * Work in progress
-  
-  ## Authors
-  * [**Joseph Harvey Angeles**](https://github.com/josephharveyangeles)
+
+## Authors
+* [**Joseph Harvey Angeles**](https://github.com/josephharveyangeles)
   
   
 ## License
