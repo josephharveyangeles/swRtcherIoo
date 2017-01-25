@@ -11,9 +11,9 @@ Just another weekend project I worked on because I was too lazy to get up in the
   * Work in progress
   
   ## Authors
-  * **[Joseph Harvey Angeles]**(https://github.com/josephharveyangeles)
+  * [**Joseph Harvey Angeles**](https://github.com/josephharveyangeles)
   
   
 ## License
 
-[![CC0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![NCSA4](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
